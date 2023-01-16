@@ -11,7 +11,6 @@ This tool is used to modify xml files in a specified directory. It is particular
 
 ## Feature
 
-* Modifies the value of the "value" attribute for elements with the tag "Event" and the attribute "eventName='PlayHeroSoundTick'" and subelements with the tag "String" and the attribute "name='eventName'"
 * Appends "_Skin(Enter skin number)" to the value of the "value" attribute
 
 ## How to use
