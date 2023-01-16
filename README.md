@@ -24,7 +24,7 @@ This tool is used to modify xml files in a specified directory. It is particular
 
 ## Preview
 
-![image](https://cdn.discordapp.com/attachments/1064379069313060864/1064379228231045190/unknow.png)
+![image]()
 
 ## Note
 
