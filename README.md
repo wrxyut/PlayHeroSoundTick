@@ -5,12 +5,9 @@ This tool is used to modify xml files in a specified directory. It is particular
 ## Requirements
 
 * python version 3.x
-
-```
-import os
-import datetime
-import xml.etree.ElementTree as ET
-```
+* os
+* datetime
+* xml.etree.ElementTree as ET
 
 ## Feature
 
