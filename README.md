@@ -20,6 +20,8 @@ This tool is used to modify xml files in a specified directory. It is particular
 * Enter the directory path where the xml files are located.
 * Enter the desired skin number.
 
+## Preview![image](https://cdn.discordapp.com/attachments/1064379069313060864/1064379228231045190/unknow.png)
+
 ## Note
 
 * Be careful and make sure to backup your files before running the script.
