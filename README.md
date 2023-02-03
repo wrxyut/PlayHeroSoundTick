@@ -32,7 +32,7 @@ This tool is used to modify xml files in a specified directory. It is particular
 
 ## Contact
 
-For any issues or support please contact the developer on Github: https://github.com/xxviiixmmiv
+For any issues or support please contact the developer on Github: https://github.com/wrxyut
 
 ## License
 
