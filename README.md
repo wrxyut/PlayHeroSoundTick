@@ -15,7 +15,7 @@ This tool is used to modify xml files in a specified directory. It is particular
 
 ### Windows
 
-* Run the script `PlayHeroSoundTick.py` or Download [PlayHeroSoundTick.exe](https://github.com/xxviiixmmiv/PlayHeroSoundTick/releases/download/stable-releases/PlayHeroSoundTick.exe)
+* Download [PlayHeroSoundTick.exe](https://github.com/xxviiixmmiv/PlayHeroSoundTick/releases/download/stable-releases/PlayHeroSoundTick.exe)
 * Enter the directory path where the xml files are located.
 * Enter the desired skin number.
 
